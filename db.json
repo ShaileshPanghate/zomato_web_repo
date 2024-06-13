@@ -1,0 +1,818 @@
+{
+    "foods": [
+        {
+            "id": 1,
+            "name": "Paneer Butter Masala",
+            "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
+            "category": [
+                "Veg",
+                "Indian",
+                "North Indian",
+                "Sabji",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Paneer",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Butter",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Tomato",
+                    "quantity": "3"
+                },
+                {
+                    "name": "Cream",
+                    "quantity": "100ml"
+                },
+                {
+                    "name": "Spices",
+                    "quantity": "to taste"
+                }
+            ],
+            "nutrition": {
+                "calories": 350,
+                "protein": "15g",
+                "fat": "25g",
+                "carbohydrates": "10g"
+            },
+            "preparation": "Cook tomatoes and spices in butter, add paneer and cream. Simmer until thick.",
+            "price": 250,
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "name": "Chicken Biryani",
+            "category": [
+                "Non-Veg",
+                "Indian",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Chicken",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "Basmati Rice",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Yogurt",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Spices",
+                    "quantity": "to taste"
+                },
+                {
+                    "name": "Onions",
+                    "quantity": "2"
+                }
+            ],
+            "nutrition": {
+                "calories": 600,
+                "protein": "30g",
+                "fat": "20g",
+                "carbohydrates": "70g"
+            },
+            "preparation": "Marinate chicken, cook rice with spices, layer and cook in a sealed pot.",
+            "price": 300,
+            "rating": 4.8
+        },
+        {
+            "id": 3,
+            "name": "Dosa",
+            "category": [
+                "Veg",
+                "Indian",
+                "South Indian",
+                "Breakfast",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Rice",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Urad Dal",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Fenugreek Seeds",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "to taste"
+                }
+            ],
+            "nutrition": {
+                "calories": 150,
+                "protein": "5g",
+                "fat": "2g",
+                "carbohydrates": "30g"
+            },
+            "preparation": "Soak, grind, ferment batter. Spread on hot griddle to make thin crepes.",
+            "price": 100,
+            "rating": 4.3
+        },
+        {
+            "id": 4,
+            "name": "Spring Rolls",
+            "category": [
+                "Veg",
+                "Chinese",
+                "Starter"
+            ],
+            "ingredients": [
+                {
+                    "name": "Cabbage",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Carrot",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Spring Roll Wrappers",
+                    "quantity": "10"
+                },
+                {
+                    "name": "Soy Sauce",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "for frying"
+                }
+            ],
+            "nutrition": {
+                "calories": 200,
+                "protein": "4g",
+                "fat": "10g",
+                "carbohydrates": "24g"
+            },
+            "preparation": "Fill wrappers with sautéed vegetables, roll and deep fry.",
+            "price": 150,
+            "rating": 4.0
+        },
+        {
+            "id": 5,
+            "name": "Margherita Pizza",
+            "category": [
+                "Veg",
+                "Italian",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Pizza Dough",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Tomato Sauce",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Mozzarella Cheese",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Basil Leaves",
+                    "quantity": "a few"
+                },
+                {
+                    "name": "Olive Oil",
+                    "quantity": "1 tbsp"
+                }
+            ],
+            "nutrition": {
+                "calories": 300,
+                "protein": "15g",
+                "fat": "12g",
+                "carbohydrates": "32g"
+            },
+            "preparation": "Spread sauce on dough, top with cheese and basil, bake until golden.",
+            "price": 400,
+            "rating": 4.6
+        },
+        {
+            "id": 6,
+            "name": "Gulab Jamun",
+            "category": [
+                "Veg",
+                "Indian",
+                "Sweets"
+            ],
+            "ingredients": [
+                {
+                    "name": "Khoya",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Cardamom",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "for frying"
+                },
+                {
+                    "name": "Water",
+                    "quantity": "300ml"
+                }
+            ],
+            "nutrition": {
+                "calories": 350,
+                "protein": "5g",
+                "fat": "10g",
+                "carbohydrates": "60g"
+            },
+            "preparation": "Make dough from khoya, fry balls, soak in sugar syrup.",
+            "price": 100,
+            "rating": 4.7
+        },
+        {
+            "id": 7,
+            "name": "Roti",
+            "category": [
+                "Veg",
+                "Indian",
+                "North Indian",
+                "Roti",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Whole Wheat Flour",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Water",
+                    "quantity": "as needed"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "to taste"
+                }
+            ],
+            "nutrition": {
+                "calories": 100,
+                "protein": "3g",
+                "fat": "0.5g",
+                "carbohydrates": "20g"
+            },
+            "preparation": "Mix flour and water to make dough, roll into flat discs, cook on griddle.",
+            "price": 20,
+            "rating": 4.2
+        },
+        {
+            "id": 8,
+            "name": "Chole Bhature",
+            "category": [
+                "Veg",
+                "Indian",
+                "North Indian",
+                "Breakfast",
+                "Lunch"
+            ],
+            "ingredients": [
+                {
+                    "name": "Chickpeas",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Flour",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "Spices",
+                    "quantity": "to taste"
+                },
+                {
+                    "name": "Yogurt",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "for frying"
+                }
+            ],
+            "nutrition": {
+                "calories": 500,
+                "protein": "15g",
+                "fat": "20g",
+                "carbohydrates": "60g"
+            },
+            "preparation": "Cook chickpeas with spices, make dough from flour and yogurt, fry until puffed.",
+            "price": 150,
+            "rating": 4.5
+        },
+        {
+            "id": 9,
+            "name": "Fried Rice",
+            "category": [
+                "Veg",
+                "Chinese",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Rice",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Mixed Vegetables",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Soy Sauce",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "Eggs",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "2 tbsp"
+                }
+            ],
+            "nutrition": {
+                "calories": 400,
+                "protein": "10g",
+                "fat": "12g",
+                "carbohydrates": "60g"
+            },
+            "preparation": "Stir fry vegetables, add cooked rice and soy sauce, scramble eggs into mixture.",
+            "price": 200,
+            "rating": 4.3
+        },
+        {
+            "id": 10,
+            "name": "Masala Dosa",
+            "category": [
+                "Veg",
+                "Indian",
+                "South Indian",
+                "Breakfast",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Dosa Batter",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": "3"
+                },
+                {
+                    "name": "Onions",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Spices",
+                    "quantity": "to taste"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "2 tbsp"
+                }
+            ],
+            "nutrition": {
+                "calories": 250,
+                "protein": "5g",
+                "fat": "8g",
+                "carbohydrates": "40g"
+            },
+            "preparation": "Make dosa, fill with spiced potato mixture, fold and serve hot.",
+            "price": 120,
+            "rating": 4.4
+        },
+        {
+            "id": 11,
+            "name": "Egg Fried Rice",
+            "category": [
+                "Non-Veg",
+                "Chinese",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Rice",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Eggs",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Mixed Vegetables",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Soy Sauce",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "2 tbsp"
+                }
+            ],
+            "nutrition": {
+                "calories": 420,
+                "protein": "12g",
+                "fat": "14g",
+                "carbohydrates": "60g"
+            },
+            "preparation": "Stir fry vegetables, add cooked rice and soy sauce, scramble eggs into mixture.",
+            "price": 220,
+            "rating": 4.5
+        },
+        {
+            "id": 12,
+            "name": "Palak Paneer",
+            "category": [
+                "Veg",
+                "Indian",
+                "North Indian",
+                "Sabji",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Spinach",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Paneer",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Onions",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Spices",
+                    "quantity": "to taste"
+                }
+            ],
+            "nutrition": {
+                "calories": 300,
+                "protein": "15g",
+                "fat": "18g",
+                "carbohydrates": "15g"
+            },
+            "preparation": "Cook spinach and blend to a puree, add paneer and cooked onions, tomatoes and spices.",
+            "price": 220,
+            "rating": 4.6
+        },
+        {
+            "id": 13,
+            "name": "Butter Chicken",
+            "category": [
+                "Non-Veg",
+                "Indian",
+                "North Indian",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Chicken",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "Butter",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Tomato Puree",
+                    "quantity": "200ml"
+                },
+                {
+                    "name": "Cream",
+                    "quantity": "100ml"
+                },
+                {
+                    "name": "Spices",
+                    "quantity": "to taste"
+                }
+            ],
+            "nutrition": {
+                "calories": 550,
+                "protein": "25g",
+                "fat": "40g",
+                "carbohydrates": "15g"
+            },
+            "preparation": "Cook chicken with spices, add tomato puree, butter, and cream. Simmer until thick.",
+            "price": 350,
+            "rating": 4.7
+        },
+        {
+            "id": 14,
+            "name": "Veg Hakka Noodles",
+            "category": [
+                "Veg",
+                "Chinese",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Hakka Noodles",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Mixed Vegetables",
+                    "quantity": "150g"
+                },
+                {
+                    "name": "Soy Sauce",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "Vinegar",
+                    "quantity": "1 tbsp"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "2 tbsp"
+                }
+            ],
+            "nutrition": {
+                "calories": 350,
+                "protein": "8g",
+                "fat": "10g",
+                "carbohydrates": "50g"
+            },
+            "preparation": "Stir fry vegetables, add cooked noodles, soy sauce, and vinegar. Toss well.",
+            "price": 200,
+            "rating": 4.4
+        },
+        {
+            "id": 15,
+            "name": "Pav Bhaji",
+            "category": [
+                "Veg",
+                "Indian",
+                "North Indian",
+                "Breakfast",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Mixed Vegetables",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": "2"
+                },
+                {
+                    "name": "Tomatoes",
+                    "quantity": "3"
+                },
+                {
+                    "name": "Pav",
+                    "quantity": "4"
+                },
+                {
+                    "name": "Butter",
+                    "quantity": "50g"
+                }
+            ],
+            "nutrition": {
+                "calories": 450,
+                "protein": "10g",
+                "fat": "20g",
+                "carbohydrates": "55g"
+            },
+            "preparation": "Cook and mash vegetables with spices, serve with butter-toasted pav.",
+            "price": 150,
+            "rating": 4.6
+        },
+        {
+            "id": 16,
+            "name": "Pasta Alfredo",
+            "category": [
+                "Veg",
+                "Italian",
+                "Lunch",
+                "Dinner"
+            ],
+            "ingredients": [
+                {
+                    "name": "Pasta",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Butter",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Cream",
+                    "quantity": "100ml"
+                },
+                {
+                    "name": "Parmesan Cheese",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Garlic",
+                    "quantity": "2 cloves"
+                }
+            ],
+            "nutrition": {
+                "calories": 500,
+                "protein": "15g",
+                "fat": "30g",
+                "carbohydrates": "45g"
+            },
+            "preparation": "Cook pasta, prepare sauce with butter, cream, and cheese. Mix together.",
+            "price": 300,
+            "rating": 4.5
+        },
+        {
+            "id": 17,
+            "name": "Idli",
+            "category": [
+                "Veg",
+                "Indian",
+                "South Indian",
+                "Breakfast"
+            ],
+            "ingredients": [
+                {
+                    "name": "Rice",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Urad Dal",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Fenugreek Seeds",
+                    "quantity": "1 tsp"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "to taste"
+                }
+            ],
+            "nutrition": {
+                "calories": 120,
+                "protein": "4g",
+                "fat": "1g",
+                "carbohydrates": "25g"
+            },
+            "preparation": "Soak, grind, ferment batter. Steam in molds.",
+            "price": 80,
+            "rating": 4.4
+        },
+        {
+            "id": 18,
+            "name": "Gajar Ka Halwa",
+            "category": [
+                "Veg",
+                "Indian",
+                "Sweets"
+            ],
+            "ingredients": [
+                {
+                    "name": "Carrots",
+                    "quantity": "500g"
+                },
+                {
+                    "name": "Milk",
+                    "quantity": "500ml"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Ghee",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Cardamom",
+                    "quantity": "1 tsp"
+                }
+            ],
+            "nutrition": {
+                "calories": 400,
+                "protein": "8g",
+                "fat": "15g",
+                "carbohydrates": "60g"
+            },
+            "preparation": "Grate carrots, cook in milk, add sugar and ghee. Simmer until thick.",
+            "price": 150,
+            "rating": 4.7
+        },
+        {
+            "id": 19,
+            "name": "Momos",
+            "category": [
+                "Veg",
+                "Chinese",
+                "Starter"
+            ],
+            "ingredients": [
+                {
+                    "name": "Flour",
+                    "quantity": "200g"
+                },
+                {
+                    "name": "Cabbage",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Carrot",
+                    "quantity": "50g"
+                },
+                {
+                    "name": "Soy Sauce",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "Salt",
+                    "quantity": "to taste"
+                }
+            ],
+            "nutrition": {
+                "calories": 250,
+                "protein": "6g",
+                "fat": "5g",
+                "carbohydrates": "45g"
+            },
+            "preparation": "Make dough from flour, fill with vegetable mixture, steam until cooked.",
+            "price": 120,
+            "rating": 4.3
+        },
+        {
+            "id": 20,
+            "name": "Chicken Tikka",
+            "category": [
+                "Non-Veg",
+                "Indian",
+                "Starter",
+                "North Indian"
+            ],
+            "ingredients": [
+                {
+                    "name": "Chicken",
+                    "quantity": "300g"
+                },
+                {
+                    "name": "Yogurt",
+                    "quantity": "100g"
+                },
+                {
+                    "name": "Spices",
+                    "quantity": "to taste"
+                },
+                {
+                    "name": "Lemon Juice",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "name": "Oil",
+                    "quantity": "1 tbsp"
+                }
+            ],
+            "nutrition": {
+                "calories": 320,
+                "protein": "25g",
+                "fat": "15g",
+                "carbohydrates": "5g"
+            },
+            "preparation": "Marinate chicken in yogurt and spices, grill until cooked.",
+            "price": 250,
+            "rating": 4.8
+        }
+    ]
+}

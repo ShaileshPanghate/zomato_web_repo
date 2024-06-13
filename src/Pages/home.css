@@ -1,0 +1,55 @@
+button{
+    background-color:white;
+  color: grey;
+  padding: 5px 10px;
+  font-size:16px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+input{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+
+}
+.filters button,input{
+    margin-left: 10px;
+}
+.InspirationFirstOrder{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(227, 226, 226);
+}
+.orderSec{
+    margin: 15px;
+    /* border:solid black 1px; */
+    justify-content: center;
+    text-align: center;
+}
+.TopBrands{
+    display: flex;
+    justify-content: center;
+}
+
+.orderSec img{
+    width: 110px;
+    border-radius: 50%;
+}
+#HeroSection img{
+    margin: 0;
+    padding: 0;
+   width: 100%;
+   height: 10%;
+    
+}
+
+#input{
+    justify-content: center;
+    align-items: center;
+   background-color: rgb(250, 239, 239);
+   padding: 1%;
+}
+#input h1{
+    color: red;
+}

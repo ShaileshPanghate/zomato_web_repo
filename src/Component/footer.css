@@ -1,0 +1,17 @@
+
+#MainFooter{
+    background-color: antiquewhite;
+    padding: 1%;
+    
+}
+.FtSec{
+    display: flex;
+    justify-content: center;
+}
+.InnerSec{
+    margin: 3%;
+
+}
+#MainFooter h1{
+    color: red;
+}

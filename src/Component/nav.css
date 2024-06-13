@@ -1,0 +1,21 @@
+.navbar{
+    display:flex;
+    justify-content: space-evenly;
+    
+    
+}
+p{
+    font-style: normal;
+    margin: 5px;
+    font-size: large;
+    text-decoration-line: none;
+    
+}
+.link{
+    color:black;
+    text-decoration-line: none;
+}
+.link:hover{
+ color: red;
+  text-decoration-line: underline;
+}
